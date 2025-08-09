@@ -4,7 +4,7 @@ Disciplina ministrada pelos professores **Dr. Gustavo H. Goulart Trossini** e **
 
 É uma matéria interdisciplinar e prática, que envolve especialmente a computação, programação e estatística, aplicadas majoritariamente ao planejamento, otimização e desenvolvimento de novos fármacos, além de áreas como ciência de materiais, agroquímica...
 
-A ideia aqui é que seja um espaço com informações e ferramentas úteis no aprendizado e aplicação da Quimioinformática. Dando os devidos créditos, a inspiração para este repositório é o trabalho do pessoal do [Volkamer's Lab](https://volkamerlab.org/projects/teachopencadd/) que é um compilado de tutoriais separados por área (Busca em banco de dados, Quimioinformática, Apreendizado Profundo e Bioinformática Estrutural)
+Dando os devidos créditos, a inspiração para este repositório é o trabalho do pessoal do [Volkamer's Lab](https://volkamerlab.org/projects/teachopencadd/) que é um compilado de tutoriais separados por área (busca em banco de dados, aprendizado de máquina, apreendizado profundo e bioinformática estrutural)
 
 ## 📖 Bibliografia recomendada, recursos e tutoriais
 Abaixo segue uma lista de bibliografia, blogs e tutoriais que podem ser muito úteis!
